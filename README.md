@@ -60,7 +60,7 @@ Enable the following two settings in ``configuration_adv.h`` file
 
 Then compile the firmware and upload, if you don't know how to , follow our F6 wiki [here](https://wiki.fysetc.com/F6_V1.3/). Check the compile part. 
 
-There is a F6_1.3.hex file at this repo , if you can't make a right firmware, try this example firmware first to test your hardware.
+There is a F6_v1.4.hex file at this repo and it is for F6 v1.4, if you can't make a right firmware, try this example firmware first to test your hardware.
 
 #### wiring
 ![](images/F6-FTDI.png)
