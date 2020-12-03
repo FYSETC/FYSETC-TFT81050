@@ -92,7 +92,6 @@ You can download the schematics on our [github](https://github.com/FYSETC/TFT810
 - [TFT81050](https://www.aliexpress.com/item/4000627651757.html)
 
 ## Tech Support
----
-Please submit any technical issue into our [forum](http://forum.fysetc.com/) or [facebook](https://www.facebook.com/groups/197476557529090/).
+Please submit any technical issue into our [github](https://github.com/FYSETC/FYSETC-TFT81050/issues) or [forum](http://forum.fysetc.com/) or [facebook](https://www.facebook.com/groups/197476557529090/).
 
-
+![](images/Infos.jpg)
